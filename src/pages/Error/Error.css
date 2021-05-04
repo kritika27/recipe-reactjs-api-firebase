@@ -16,4 +16,9 @@
     margin-bottom:10px;
   }
   
+  @media (max-width:767px){
+    .err h2{
+      font-size: 20px;
+    }
+  }
   

@@ -2,15 +2,18 @@
   display: flex;
 }
 .recipe_pic {
-  width: 40%;
+  width: 50%;
   height: 90vh;
+  
 }
 .recipe_pic img {
   height: 90vh;
+  width:100%;
+  object-fit:cover;
 }
 .single_recipe {
-  overflow: auto;
-  width: 60%;
+  overflow: scroll;
+  width: 50%;
   background-color: #fff;
   height: 560px;
   text-align: center;
@@ -38,7 +41,8 @@
   .single_recipe {
     width: 100%;
   }
-  .single_recipe {
-    overflow: none;
+  .single_recipe{
+    overflow:scroll;
   }
+  
 }

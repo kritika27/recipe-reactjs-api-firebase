@@ -11,7 +11,7 @@
   line-height: 2;
   max-width: 45em;
   margin-bottom: 0.8rem;
-  font-size: 20px;
+  font-size: 2vw;
 }
 .hero span {
   color: #379683;
@@ -23,7 +23,7 @@
 }
 .content h1 {
   margin-bottom: 1rem;
-  font-size: 50px;
+  font-size: 3.5vw;
 }
 .hero img {
   width: 50vw;
@@ -49,5 +49,24 @@
 {
   .hero{
     flex-direction:column;
+  }
+  .content{
+    margin-top:2rem;
+  }
+  .btn-order {
+    cursor: pointer;
+    color: #fff;
+    background: #379683;
+    padding: 8px;
+    border: none;
+    outline: none;
+    font-size: 15px;
+  }
+  .btn-order:hover {
+    filter: brightness(80%);
+    outline: none;
+  }
+  .btn-order:focus {
+    outline: none;
   }
 }
