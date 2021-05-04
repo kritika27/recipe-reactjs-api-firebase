@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import { useParams } from "react-router-dom";
+import Spinner from "./components/Spinner/Spinner";
 import "./SingleRecipe.css";
 
 export default function SingleRecipe() {
@@ -76,7 +77,7 @@ export default function SingleRecipe() {
     getRecipe();
   }, [id]);
   if (loading) {
-    return "Loading..";
+    return <Spinner />;
   }
   if (!recipes) {
     return <h2 className="section-title">No recipe to display.</h2>;
