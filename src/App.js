@@ -1,7 +1,7 @@
 import React, { lazy, Suspense } from "react";
 import { BrowserRouter, Switch, Route } from "react-router-dom";
 import Navbar from "./components/Navbar/Navbar";
-
+import Spinner from "./components/Spinner/Spinner";
 const Homepage = lazy(() => import("./pages/Hero/Hero"));
 const Errorpage = lazy(() => import("./pages/Error/Error"));
 const Recipelist = lazy(() => import("./pages/Recipe/RecipeList"));
@@ -11,7 +11,7 @@ const App = () => {
   return (
     <BrowserRouter>
       <Navbar />
-      <Suspense fallback={<div>Loading...</div>}>
+      <Suspense fallback={<Spinner />}>
         <Switch>
           <Route exact path="/" component={Homepage} />
           <Route exact path="/recipe" component={Recipelist} />
