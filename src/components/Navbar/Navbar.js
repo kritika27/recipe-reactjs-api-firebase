@@ -20,7 +20,7 @@ const Navbar = () => {
     auth().onAuthStateChanged(function (user) {
       if (user) {
         setFirstName(user.displayName);
-        console.log(firstName);
+
         history.push("/recipe");
       } else console.log("No user is logged in.");
     });

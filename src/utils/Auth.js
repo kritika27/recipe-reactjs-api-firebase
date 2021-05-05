@@ -6,6 +6,6 @@ export default function Auth() {
   return auth()
     .signInWithPopup(provider)
     .then((result) => {
-      console.log(result.user);
+      //handle if required
     });
 }
