@@ -13,7 +13,7 @@ const App = () => {
       <Navbar />
       <Suspense fallback={<Spinner />}>
         <Switch>
-          <Route exact path="/" component={Homepage} />
+          <Route exact path="/home" component={Homepage} />
           <Route exact path="/recipe" component={Recipelist} />
           <Route exact path="/recipe/:id" children={<Recipedetails />} />
           <Route exact path="*" component={Errorpage} />
