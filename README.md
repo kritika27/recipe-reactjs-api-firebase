@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a Recipe App which allows the user to login,view recipes,search different recipes and view it in detail.This web app is built using Meals DB API,React,React Router,context api,debounce search functionality,Firebase for user authentication and Netlify for deployment.
+This is a Recipe App which allows the user to login,view reci..pes,search different recipes and view it in detail.This web app is built using Meals DB API,React,React Router,context api,debounce search functionality,Firebase for user authentication and Netlify for deployment...
 
 ## Demo
 
@@ -25,7 +25,7 @@ Single Recipe Page
 ## Installation
 
 Step 1
-🍴 Fork this repo!
+🍴 Fork this repo!.
 
 Step 2
 👯 Clone this repo to your local machine using https://github.com/kritika27/recipe-reactjs-api-firebase.git
@@ -47,3 +47,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 Apache-2.0 License.
 
 Made with ❤
+.....
