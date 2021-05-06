@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "./static/css/main.7545bc6b.chunk.css",
+    "main.js": "./static/js/main.87d4b367.chunk.js",
+    "main.js.map": "./static/js/main.87d4b367.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.134a29ad.js",
+    "runtime-main.js.map": "./static/js/runtime-main.134a29ad.js.map",
+    "static/js/2.01c5bee2.chunk.js": "./static/js/2.01c5bee2.chunk.js",
+    "static/js/2.01c5bee2.chunk.js.map": "./static/js/2.01c5bee2.chunk.js.map",
+    "static/css/3.be986c53.chunk.css": "./static/css/3.be986c53.chunk.css",
+    "static/js/3.573086de.chunk.js": "./static/js/3.573086de.chunk.js",
+    "static/js/3.573086de.chunk.js.map": "./static/js/3.573086de.chunk.js.map",
+    "static/css/4.5f28840e.chunk.css": "./static/css/4.5f28840e.chunk.css",
+    "static/js/4.c700219e.chunk.js": "./static/js/4.c700219e.chunk.js",
+    "static/js/4.c700219e.chunk.js.map": "./static/js/4.c700219e.chunk.js.map",
+    "static/css/5.6543a9be.chunk.css": "./static/css/5.6543a9be.chunk.css",
+    "static/js/5.da46c4b6.chunk.js": "./static/js/5.da46c4b6.chunk.js",
+    "static/js/5.da46c4b6.chunk.js.map": "./static/js/5.da46c4b6.chunk.js.map",
+    "static/css/6.73e705ee.chunk.css": "./static/css/6.73e705ee.chunk.css",
+    "static/js/6.d540e376.chunk.js": "./static/js/6.d540e376.chunk.js",
+    "static/js/6.d540e376.chunk.js.map": "./static/js/6.d540e376.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/3.be986c53.chunk.css.map": "./static/css/3.be986c53.chunk.css.map",
+    "static/css/4.5f28840e.chunk.css.map": "./static/css/4.5f28840e.chunk.css.map",
+    "static/css/5.6543a9be.chunk.css.map": "./static/css/5.6543a9be.chunk.css.map",
+    "static/css/6.73e705ee.chunk.css.map": "./static/css/6.73e705ee.chunk.css.map",
+    "static/css/main.7545bc6b.chunk.css.map": "./static/css/main.7545bc6b.chunk.css.map",
+    "static/js/2.01c5bee2.chunk.js.LICENSE.txt": "./static/js/2.01c5bee2.chunk.js.LICENSE.txt",
+    "static/media/undraw_breakfast_psiw.0da75be7.svg": "./static/media/undraw_breakfast_psiw.0da75be7.svg",
+    "static/media/undraw_not_found_60pq.42738c3c.svg": "./static/media/undraw_not_found_60pq.42738c3c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.134a29ad.js",
+    "static/js/2.01c5bee2.chunk.js",
+    "static/css/main.7545bc6b.chunk.css",
+    "static/js/main.87d4b367.chunk.js"
+  ]
+}

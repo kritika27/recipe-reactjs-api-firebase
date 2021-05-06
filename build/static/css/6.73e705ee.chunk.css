@@ -1,0 +1,2 @@
+.recipe_container{display:-webkit-flex;display:flex}.recipe_pic{width:50%;height:90vh}.recipe_pic img{height:90vh;width:100%;object-fit:cover}.single_recipe{overflow:scroll;width:50%;background-color:#fff;height:560px;text-align:center}.heading{color:#379683;padding:25px}.heading h1{font-family:cursive}.text h4{color:#379683}.text{padding:40px;text-align:left}@media (max-width:767px){.recipe_container{-webkit-flex-direction:column;flex-direction:column}.recipe_pic,.single_recipe{width:100%}.single_recipe{overflow:scroll}}
+/*# sourceMappingURL=6.73e705ee.chunk.css.map */
