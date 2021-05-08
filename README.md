@@ -6,7 +6,7 @@ This is a Recipe App which allows the user to login,view reci..pes,search differ
 
 ## Demo
 
-👉 [Link](https://mystifying-babbage-8fc5b5.netlify.app/)
+👉 [Link](https://hopeful-elion-e7c915.netlify.app/)
 
 ## Screenshots
 
